@@ -1,0 +1,2 @@
+This line writen to file
+My name is John! I'm doing this!

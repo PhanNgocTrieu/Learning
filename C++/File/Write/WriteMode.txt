@@ -1,0 +1,4 @@
+Hello EveryOne!
+My name is Trieu John!
+I'm trying to write somethings to file!
+Goodbye everyone!
