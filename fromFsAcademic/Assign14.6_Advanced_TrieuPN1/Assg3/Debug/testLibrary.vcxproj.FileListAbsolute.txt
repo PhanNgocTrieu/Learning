@@ -1,0 +1,2 @@
+E:\File_Documents\VS2019\FPT\Lib\testLibrary\Debug\testLibrary.exe
+E:\File_Documents\VS2019\FPT\Lib\testLibrary\Debug\testLibrary.pdb
